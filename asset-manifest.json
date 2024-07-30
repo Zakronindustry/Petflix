@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.12d1360d.css",
+    "main.js": "/static/js/main.4aaced8c.js",
+    "static/js/453.7c0fa61a.chunk.js": "/static/js/453.7c0fa61a.chunk.js",
+    "static/media/puss.jpg": "/static/media/puss.c8ae057caa9b9c802c00.jpg",
+    "static/media/Petflix.mp4": "/static/media/Petflix.6396afc5a3052c8929f2.mp4",
+    "static/media/bolt.jpg": "/static/media/bolt.fdf56fe28c9f1e80f995.jpg",
+    "static/media/cd-card.jpg": "/static/media/cd-card.e1dd20f551683b585907.jpg",
+    "static/media/oc-card.jpg": "/static/media/oc-card.a14711bcdff57e577cea.jpg",
+    "static/media/slp.jpg": "/static/media/slp.d503e1f642e132b35e9a.jpg",
+    "static/media/cd.jpg": "/static/media/cd.b57c6f846be2f1f212da.jpg",
+    "static/media/whisker-card.jpg": "/static/media/whisker-card.bfb839c7a86ea503675a.jpg",
+    "static/media/oc.jpg": "/static/media/oc.96dd5db1832f7f5f512d.jpg",
+    "static/media/ADGH-card.jpg": "/static/media/ADGH-card.3c75a2e803200b204eec.jpg",
+    "static/media/adgh.jpg": "/static/media/adgh.9c670ab7e5901287e981.jpg",
+    "static/media/puss-logo.jpg": "/static/media/puss-logo.4c1d30d57d5a6a360fb1.jpg",
+    "static/media/whisker.jpg": "/static/media/whisker.80af858d830b2c3782ff.jpg",
+    "static/media/puss-card.jpg": "/static/media/puss-card.44ea8c24ad4129ecd1b1.jpg",
+    "static/media/bolt-card.jpeg": "/static/media/bolt-card.0653533935dd64777507.jpeg",
+    "static/media/SLP-logo.png": "/static/media/SLP-logo.8b3b30e3bc30ce428a52.png",
+    "static/media/bolt-logo.jpg": "/static/media/bolt-logo.e495355d2bf9177a6469.jpg",
+    "static/media/oc-logo.jpg": "/static/media/oc-logo.3d0dac86ccce6bf14d76.jpg",
+    "static/media/SLP-card.jpg": "/static/media/SLP-card.b39f46a42c50593030af.jpg",
+    "static/media/adgh-logo.jpg": "/static/media/adgh-logo.d9d2e891d5e11a3850c7.jpg",
+    "static/media/whisker-logo.jpg": "/static/media/whisker-logo.8fae56552e2cc1497d66.jpg",
+    "static/media/imdb.png": "/static/media/imdb.cc82f72c947698d9c47f.png",
+    "static/media/cd-logo.jpg": "/static/media/cd-logo.a3d3d61c6c0126b603fc.jpg",
+    "static/media/logo.png": "/static/media/logo.9a7cb9e5ced0ae12e434.png",
+    "index.html": "/index.html",
+    "main.12d1360d.css.map": "/static/css/main.12d1360d.css.map",
+    "main.4aaced8c.js.map": "/static/js/main.4aaced8c.js.map",
+    "453.7c0fa61a.chunk.js.map": "/static/js/453.7c0fa61a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12d1360d.css",
+    "static/js/main.4aaced8c.js"
+  ]
+}
